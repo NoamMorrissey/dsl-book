@@ -6,6 +6,7 @@ Si quieres conocer el directorio en el que te encuentras, escribe:
 pwd
 ```
 ## Configurar Git
+
 Para operar con git tenemos que dejar el mismo nombre y dirección de correo en git en el terminal. 2 órdenes
 ```
 git config --global user.name “Nombre de usuario”
@@ -29,11 +30,13 @@ git help commit
 ``` 
 
 ## Clonar un repositorio
+
 ```
 git clone URL DEL REPOSITORIO
 ```
 
 ## Añadir un fichero
+
 ```
 echo "Texto que aparecerá al inicio del fichero" >> NombreFiechero.md
 ```
