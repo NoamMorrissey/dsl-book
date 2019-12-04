@@ -49,7 +49,14 @@ Ahora este fichero está en el Staging Area. Este area está diseñada para que 
 ```
 git commit -m "mensaje del commit con el resumen de lo que hayamos hecho"
 ```
-Ahora si hacemos un git status la terminal nos informará de que nuestro working directory está limpio y que (en nuestro caso) master branch está por delante del master en por un commit.
+Ahora si hacemos un git status la terminal nos informará de que nuestro working directory está limpio y que (en nuestro caso) master branch está por delante del master en por un commit. Es decir, podemos ir añadiendo commits en nuestro Local Repository para luego añadirlos al Remote Repository.
+
+Para subir nuestro fichero y nuestros cambios al Remote Repository solo tenemos que hacer
+```
+git push origin master
+```
+En este caso origin es nuestro repositorio en GitHub (podemos acceder a esta información en la parte de config) y master se refiere a nuestra, de momento, única rama en el repositorio.
+
 
 
 
