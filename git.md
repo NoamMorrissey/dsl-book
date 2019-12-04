@@ -1,8 +1,8 @@
 # Tutorial Git
-1 [Antes de empezar](#Antes-de-empezar)
-2 [Configurar Git](#Configurar-Git)
-3 [Clonar un repositorio](#Clonar-un-repositorio)
-4 [Añadir un fichero](#Añadir-un-fichero)
+1. [Antes de empezar](#Antes-de-empezar)
+2. [Configurar Git](#Configurar-Git)
+3. [Clonar un repositorio](#Clonar-un-repositorio)
+4. [Añadir un fichero](#Añadir-un-fichero)
 
 ### Antes de empezar
 Si quieres conocer el directorio en el que te encuentras, escribe:
