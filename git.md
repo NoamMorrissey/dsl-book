@@ -1,11 +1,11 @@
 # Tutorial Git
 
-## Antes de empezar
+### Antes de empezar
 Si quieres conocer el directorio en el que te encuentras, escribe:
 ```
 pwd
 ```
-## Configurar Git
+### Configurar Git
 
 Para operar con git tenemos que dejar el mismo nombre y dirección de correo en git en el terminal. 2 órdenes
 ```
@@ -29,13 +29,13 @@ git help
 git help commit
 ``` 
 
-## Clonar un repositorio
+### Clonar un repositorio
 
 ```
 git clone URL DEL REPOSITORIO
 ```
 
-## Añadir un fichero
+### Añadir un fichero
 
 ```
 echo "Texto que aparecerá al inicio del fichero" >> NombreFiechero.md
@@ -59,7 +59,3 @@ Para subir nuestro fichero y nuestros cambios al Remote Repository solo tenemos 
 git push origin master
 ```
 En este caso origin es nuestro repositorio en GitHub (podemos acceder a esta información en la parte de config) y master se refiere a nuestra, de momento, única rama en el repositorio.
-
-
-
-
