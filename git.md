@@ -1,10 +1,13 @@
 # Tutorial Git
-1. [Antes de empezar](#Antes-de-empezar)
-2. [Configurar Git](#Configurar-Git)
-3. [Clonar un repositorio](#Clonar-un-repositorio)
-4. [Añadir un fichero](#Añadir-un-fichero)
+1. [Comandos básicos](#Comandos-básicos)
+..* [Antes de empezar](#Antes-de-empezar)
+..* [Configurar Git](#Configurar-Git)
+..* [Clonar un repositorio](#Clonar-un-repositorio)
+2. [Empezar con un proyecto desde cero](#Empezar-con-un-proyecto-desde-cero)
+..* [Añadir un fichero](#Añadir-un-fichero)
+3. [Añadir Git a un proyecto existente](#Añadir-Git-a-un-proyecto-existente)
 
-Inicio
+Comandos básicos
 ----------------------
 
 ### Antes de empezar
@@ -68,7 +71,7 @@ git push origin master
 En este caso **origin** es nuestro repositorio en GitHub (podemos acceder a esta información en la parte de config) y **master** se refiere a nuestra, de momento, única rama en el repositorio.
 
 
-Comándos básicos
+Empezar con un proyecto desde cero
 ----------------------
 
 ### Crear un proyecto desde cero
@@ -107,4 +110,8 @@ Ahora simplemente vamos a eliminar todo el proyecto y el repositorio de git, par
 ```
 rm -rf nombre-del-projecto/
 ```
+
+
+Añadir Git a un proyecto existente
+----------------------
 
