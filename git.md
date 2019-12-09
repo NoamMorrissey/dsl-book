@@ -1,6 +1,8 @@
 # Tutorial Git
 1. [Comandos básicos](#Comandos-básicos)
+
 ..* [Antes de empezar](#Antes-de-empezar)
+
 ..* [Configurar Git](#Configurar-Git)
 ..* [Clonar un repositorio](#Clonar-un-repositorio)
 2. [Empezar con un proyecto desde cero](#Empezar-con-un-proyecto-desde-cero)
